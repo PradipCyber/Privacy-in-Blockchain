@@ -1,10 +1,10 @@
 # Complying with the Right to Be Forgotten in Smart Mobility Data Sharing: A Delete-Only Redactable Consortium Blockchain
 
-This folder includes a prototype for a delete-only redactable blockchain system proposed in the confernece paper: 
+This folder includes a prototype for a delete-only redactable blockchain system proposed in the conference paper: 
 
 Tironsakkul, Tin, et al. "Complying with the Right to Be Forgotten in Smart Mobility Data Sharing: A Delete-Only Redactable Consortium Blockchain." SECRYPT 2026: 23rd International Conference on Security and Cryptography.
 
-The model has the following feature:
+The model has the following features:
 
 - Meta-transaction + ECDSA digital signature approach.
 - Schnorr-based accountable threshold signature (ATS) for secure and efficient redaction.
